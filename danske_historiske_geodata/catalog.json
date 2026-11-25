@@ -1,0 +1,162 @@
+[
+  {
+    "record_id": 24500156,
+    "title": "Københavns matrikler 1689, 1757, 1806 og 1860",
+    "category": "Matrikel",
+    "doi": "10.5281/zenodo.24500156",
+    "years": [
+      1689,
+      1757,
+      1806,
+      1860
+    ],
+    "description": "Historiske matrikler i København. ESRI Shapefile. Kilde angivet på Zenodo: University of Copenhagen."
+  },
+  {
+    "record_id": 18925731,
+    "title": "Odense matrikeldata 1578-1761",
+    "category": "Matrikel",
+    "doi": "10.5281/zenodo.18925731",
+    "description": "Museum Odense – Per Nørbachs database. ZIP-arkiv."
+  },
+  {
+    "record_id": 18662175,
+    "title": "Vådbund omkring 1700-tallet ver2",
+    "category": "Landskab",
+    "doi": "10.5281/zenodo.18662175",
+    "description": "Historisk vådbund."
+  },
+  {
+    "record_id": 17515569,
+    "title": "Databasen Årtusinders Råvarer – Ressourcernes Geografi",
+    "category": "Ressourcer",
+    "doi": "10.5281/zenodo.17515569",
+    "description": "Databasen Årtusinders Råvarer – Ressourcernes Geografi. Se Zenodo for dokumentation."
+  },
+  {
+    "record_id": 10828107,
+    "title": "Viabundus 1350–1650 (v1.3)",
+    "category": "Infrastruktur",
+    "doi": "10.5281/zenodo.10828107",
+    "description": "Historiske transportveje, byomrids og vandarealer. CC BY-SA. GeoJSON; hele dækningsområdet.",
+    "extensions": [
+      ".geojson"
+    ]
+  },
+  {
+    "record_id": 24502629,
+    "title": "Danske jernbaner",
+    "category": "Infrastruktur",
+    "doi": "10.5281/zenodo.24502629",
+    "description": "Jernbaner og stationer. MapInfo TAB."
+  },
+  {
+    "record_id": 24502827,
+    "title": "Danske Hovedgårde gennem tiderne",
+    "category": "Bebyggelse",
+    "doi": "10.5281/zenodo.24502827",
+    "description": "GeoPackage foretrækkes frem for den parallelle MapInfo-version.",
+    "extensions": [
+      ".gpkg"
+    ]
+  },
+  {
+    "record_id": "dropbox_landbebyggelser",
+    "title": "Danske landbebyggelser i 1680erne",
+    "category": "Bebyggelse",
+    "doi": "",
+    "description": "Datasæt til Danske landbebyggelser i 1680erne – Peder Dam. Distribueret via Geoforum Danmark (Dropbox).",
+    "source_url": "https://www.dropbox.com/scl/fo/7zcp35jo6njqqesn84d0z/ACakASTJA9E5k-XAbR-dDnU/Datas%C3%A6t?rlkey=9x8b0nw3y0ea3cf7l9iptq5w2&dl=0",
+    "filename": "Danske landbebyggelser.zip",
+    "folder_items": [
+      {
+        "id": "dropbox_kirker",
+        "filename": "DK_Kirker.zip"
+      },
+      {
+        "id": "dropbox_klostre",
+        "filename": "DK_kloster_GIS(1).zip"
+      },
+      {
+        "id": "dropbox_landbebyggelser",
+        "filename": "Danske landbebyggelser.zip",
+        "filename_prefix": "Datasæt til Danske landbebyggelser i 1680erne"
+      }
+    ],
+    "provider": "dropbox"
+  },
+  {
+    "record_id": 20039430,
+    "title": "Urbane Landskaber – GIS filer",
+    "category": "Bebyggelse",
+    "doi": "10.5281/zenodo.20039430",
+    "description": "Museum Odense."
+  },
+  {
+    "record_id": "dropbox_kirker",
+    "title": "Danske kirker",
+    "category": "Bebyggelse",
+    "doi": "",
+    "description": "Distribueret via Geoforum Danmark (Dropbox). Oprindelig dokumentation bevares. Første hentning downloader hele den delte mappe.",
+    "source_url": "https://www.dropbox.com/scl/fo/7zcp35jo6njqqesn84d0z/ACakASTJA9E5k-XAbR-dDnU/Datas%C3%A6t?rlkey=9x8b0nw3y0ea3cf7l9iptq5w2&dl=0",
+    "filename": "DK_Kirker.zip",
+    "folder_items": [
+      {
+        "id": "dropbox_kirker",
+        "filename": "DK_Kirker.zip"
+      },
+      {
+        "id": "dropbox_klostre",
+        "filename": "DK_kloster_GIS(1).zip"
+      },
+      {
+        "id": "dropbox_landbebyggelser",
+        "filename": "Danske landbebyggelser.zip",
+        "filename_prefix": "Datasæt til Danske landbebyggelser i 1680erne"
+      }
+    ],
+    "provider": "dropbox"
+  },
+  {
+    "record_id": "dropbox_klostre",
+    "title": "Danske klostre",
+    "category": "Bebyggelse",
+    "doi": "",
+    "description": "Distribueret via Geoforum Danmark (Dropbox). Oprindelig dokumentation bevares. Første hentning downloader hele den delte mappe.",
+    "source_url": "https://www.dropbox.com/scl/fo/7zcp35jo6njqqesn84d0z/ACakASTJA9E5k-XAbR-dDnU/Datas%C3%A6t?rlkey=9x8b0nw3y0ea3cf7l9iptq5w2&dl=0",
+    "filename": "DK_kloster_GIS(1).zip",
+    "folder_items": [
+      {
+        "id": "dropbox_kirker",
+        "filename": "DK_Kirker.zip"
+      },
+      {
+        "id": "dropbox_klostre",
+        "filename": "DK_kloster_GIS(1).zip"
+      },
+      {
+        "id": "dropbox_landbebyggelser",
+        "filename": "Danske landbebyggelser.zip",
+        "filename_prefix": "Datasæt til Danske landbebyggelser i 1680erne"
+      }
+    ],
+    "provider": "dropbox"
+  },
+  {
+    "record_id": 24531836,
+    "title": "Kort over købstæder, flækker, handelspladser og skipperbyer",
+    "doi": "10.5281/zenodo.24531836",
+    "description": "Kort over købstæder, flækker, handelspladser og skipperbyer. GeoPackage.",
+    "extensions": [
+      ".gpkg"
+    ],
+    "category": "Bebyggelse"
+  },
+  {
+    "record_id": 24502436,
+    "title": "Digitaliseringen af Videnskabernes Selskabs kort",
+    "category": "Kartografi",
+    "doi": "10.5281/zenodo.24502436",
+    "description": "Vektordata fra kortene 1768–1805."
+  }
+]

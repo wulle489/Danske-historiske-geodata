@@ -1,0 +1,17 @@
+[general]
+name=Danske historiske geodata
+description=Hent kuraterede danske historiske geodata fra diverse kilder.
+about=Downloader historiske GIS datasæt, og loader dem i QGis.
+version=0.4.3
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+author=Morten Wulff Ingvorsen
+email=mwi@slks.dk
+repository=https://github.com/wulle489/Danske-historiske-geodata
+tracker=https://github.com/wulle489/Danske-historiske-geodata
+homepage=https://github.com/wulle489/Danske-historiske-geodata
+category=Vector
+icon=icon.svg
+tags=historie,Danmark,Denmark,historiske geodata
+experimental=True
+deprecated=False
